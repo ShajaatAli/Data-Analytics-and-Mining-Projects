@@ -2,4 +2,4 @@
 
 ## Summary
 
-For my Data Anaylytics course we used Jupyter Notebooks with Anaconda to do each project.
+For my Data Analytics course we used Jupyter Notebooks with Anaconda to do each project.
